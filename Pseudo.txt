@@ -1,0 +1,14 @@
+Start
+
+Input  m
+
+If  ( m % 2 == 0 )
+    then ( Check  condition)
+    if (isTrue) 
+	print ("its EVEN");
+    else (isFalse) 
+	print ("its ODD");
+else (Please enter valid number)
+    
+
+End!
